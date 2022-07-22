@@ -227,36 +227,37 @@ header .navbar ul li a:hover {
 }
 
 .home h6 {
-  font-size: 4rem;
+  font-size: 2.5rem;
   text-transform: lowercase;
   letter-spacing: 0.01rem;
-  font-weight: 800;
+  font-weight: normal;
   color: #272727;
 }
 
 .home .content h2 {
-  font-size: 8rem;
-  letter-spacing: 0.05rem;
-  font-weight: bold;
+  font-size: 5rem;
+  /* letter-spacing: 0.01rem; */
+  font-weight: bolder;
+  font-family: 'San Francisco';
   color: #272727;
 }
 .home .content h2 span {
   letter-spacing: 0.01rem;
   font-size: 5rem;
-  font-weight: 800;
+  font-weight: normal;
   color: #272727;
 }
 .home .content p {
-  font-size: 3.5rem;
+  font-size: 2.5rem;
   color: #000;
-  font-weight: 600;
+  font-weight: normal;
   letter-spacing: 0.1rem;
   padding: 1rem 0;
 }
 .home .content p span {
-  font-size: 4rem;
+  font-size: 2.5rem;
   letter-spacing: 0.1rem;
-  text-transform: lowercase;
+  /* text-transform: lowercase; */
   color: rgb(94, 155, 110);
   font-weight: 600;
   padding: 1rem 0;
@@ -310,7 +311,7 @@ header .navbar ul li a:hover {
 .social-icons a {
   font-size: 5rem;
   display: inline-block;
-  line-height: 50px;
+  line-height: 40px;
   color: #444444;
   margin-top: 0px;
   margin-left: 5px;
@@ -570,7 +571,7 @@ header .navbar ul li a:hover {
 
 /* education section starts */
 .education {
-  background: #e5ecfb;
+  background: #ffffff;
   min-height: 80vh;
 }
 .education .qoute {
@@ -968,7 +969,7 @@ header .navbar ul li a:hover {
 
 /* contact section starts */
 .contact {
-  background: #e5ecfb;
+  background: #ffffff;
   min-height: 60vh;
 }
 .contact .container {
