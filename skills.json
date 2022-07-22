@@ -37,6 +37,10 @@
     },
     {
         "name": "Hibernate",
-        "icon": "https://seeklogo.com/images/H/hibernate-logo-8C95C75A24-seeklogo.com.png"
+        "icon": "https://cdn.icon-icons.com/icons2/2699/PNG/96/hibernate_logo_icon_171004.png"
+    },
+    {
+        "name": "Spring-boot",
+        "icon": "https://cdn.icon-icons.com/icons2/2389/PNG/96/spring_logo_icon_144856.png"
     }    
 ]

@@ -536,14 +536,16 @@ header .navbar ul li a:hover {
   align-items: center;
   gap: 1rem;
   margin-top: 1rem;
+  font-family: "San Francisco";
 }
 .skills .container .bar .info i {
   font-size: 4rem;
+  font-family: "San Francisco";
 }
 .skills .container .bar .info span {
   font-size: 2rem;
   font-weight: 500;
-  font-family: "Poppins";
+  font-family: "San Francisco";
   margin-left: 0.5rem;
 }
 /* skills media queries starts*/
