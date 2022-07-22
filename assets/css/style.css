@@ -386,9 +386,9 @@ header .navbar ul li a:hover {
 }
 .about .row .image img {
   margin: 4rem;
-  width: 37rem;
+  width: 40rem;
   height: auto;
-  border-radius: 5%;
+  border-radius: 10%;
   box-shadow: 0 5px 10px rgba(0, 0, 0, 0.6);
   mix-blend-mode: luminosity;
   transition: 0.3s;
@@ -413,11 +413,11 @@ header .navbar ul li a:hover {
   font-weight: 600;
 }
 .about .row .content p {
-  font-size: 1.5rem;
+  font-size: 2rem;
   /* margin-top: 1.5rem; */
   font-family: "San Francisco";
-  letter-spacing: 0.1rem;
-  font-weight: 600;
+  letter-spacing: 0.01rem;
+  font-weight: 400;
   text-transform: none;
 }
 .about .row .content .box-container {
