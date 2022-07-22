@@ -40,7 +40,59 @@
         "icon": "https://cdn.icon-icons.com/icons2/2699/PNG/96/hibernate_logo_icon_171004.png"
     },
     {
-        "name": "Spring-boot",
-        "icon": "https://cdn.icon-icons.com/icons2/2389/PNG/96/spring_logo_icon_144856.png"
-    }    
+        "name": "Spring-Boot",
+        "icon": "https://img.icons8.com/color/96/000000/spring-logo.png"
+    },
+    {
+        "name": "Elasticsearch",
+        "icon": "https://img.icons8.com/color/96/000000/elasticsearch.png"
+    },
+    {
+        "name": "Apache Spark",
+        "icon": "https://cdn.icon-icons.com/icons2/2699/PNG/96/apache_spark_logo_icon_170560.png"
+    },
+    {
+        "name": "Gitlab",
+        "icon": "https://img.icons8.com/color/96/000000/gitlab.png"
+    },
+    {
+        "name": "Bash Script",
+        "icon": "https://img.icons8.com/color/96/000000/bash.png"
+    },
+    {
+        "name": "Redis",
+        "icon": "https://img.icons8.com/color/96/000000/redis.png"
+    },
+    {
+        "name": "Restful API",
+        "icon": "https://img.icons8.com/color-glass/96/000000/api-settings.png"
+    },
+    {
+        "name": "gRPC",
+        "icon": "https://img.icons8.com/nolan/96/api-settings.png"
+    },
+    {
+        "name": "Swagger Open API",
+        "icon": "https://cdn.icon-icons.com/icons2/2107/PNG/96/file_type_swagger_icon_130134.png"
+    },
+    {
+        "name": "Tensorflow",
+        "icon": "https://img.icons8.com/color/96/000000/tensorflow.png"
+    },
+    {
+        "name": "Linux",
+        "icon": "https://img.icons8.com/color/96/000000/ubuntu--v1.png"
+    },
+    {
+        "name": "Flask",
+        "icon": "https://img.icons8.com/color/96/000000/flask.png"
+    },
+    {
+        "name": "Go Gin",
+        "icon": "https://i.postimg.cc/SRDz9C6k/gonic-1.png"
+    },
+    {
+        "name": "Kafka",
+        "icon": "https://i.postimg.cc/76L46zZg/kafka-icon-blue-96x96.jpg"
+    }   
 ]
