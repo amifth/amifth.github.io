@@ -59,11 +59,11 @@ $(document).ready(function () {
 document.addEventListener('visibilitychange',
     function () {
         if (document.visibilityState === "visible") {
-            document.title = "Portfolio | Jigar Sable";
+            document.title = "Portfolio | amifth";
             $("#favicon").attr("href", "assets/images/favicon.png");
         }
         else {
-            document.title = "Come Back To Portfolio";
+            document.title = "Thank you visit here";
             $("#favicon").attr("href", "assets/images/favhand.png");
         }
     });
@@ -71,7 +71,7 @@ document.addEventListener('visibilitychange',
 
 // <!-- typed js effect starts -->
 var typed = new Typed(".typing-text", {
-    strings: ["Software Engineer", "Backend Engineer", "AI and Machine Learning Enthusiast"],
+    strings: ["Software Engineer", "Backend Engineer"],
     loop: true,
     typeSpeed: 100,
     backSpeed: 80,
