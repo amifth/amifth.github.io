@@ -49,7 +49,7 @@
     },
     {
         "name": "Apache Spark",
-        "icon": "https://cdn.icon-icons.com/icons2/2699/PNG/96/apache_spark_logo_icon_170560.png"
+        "icon": "https://i.postimg.cc/0ybJ6VVN/Apache-Spark.png"
     },
     {
         "name": "Gitlab",
@@ -69,11 +69,11 @@
     },
     {
         "name": "gRPC",
-        "icon": "https://img.icons8.com/nolan/96/api-settings.png"
+        "icon": "https://i.postimg.cc/C58nP5ff/grpc.png"
     },
     {
         "name": "Swagger Open API",
-        "icon": "https://cdn.icon-icons.com/icons2/2107/PNG/96/file_type_swagger_icon_130134.png"
+        "icon": "https://i.postimg.cc/yYqVhv6d/Sw-agger.png"
     },
     {
         "name": "Tensorflow",
@@ -85,7 +85,7 @@
     },
     {
         "name": "Flask",
-        "icon": "https://img.icons8.com/color/96/000000/flask.png"
+        "icon": "https://i.postimg.cc/4Nnzt4dZ/Flask-removebg-preview.png"
     },
     {
         "name": "Go Gin",
@@ -93,6 +93,6 @@
     },
     {
         "name": "Kafka",
-        "icon": "https://i.postimg.cc/76L46zZg/kafka-icon-blue-96x96.jpg"
+        "icon": "https://i.postimg.cc/L86ncNcT/Kafka.png"
     }   
 ]
